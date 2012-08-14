@@ -11,7 +11,7 @@
     <message>
         <location filename="../assets/DetailPage.qml" line="22"/>
         <source>Page 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Seite 2</translation>
     </message>
     <message>
         <location filename="../assets/DetailPage.qml" line="41"/>
